@@ -1,0 +1,6 @@
+fold,train_rows,val_rows,train_path,val_path,train_label_counts,val_label_counts
+1,457,115,dreaddit_cv_raw_splits\folds_raw\fold_01_train_raw.csv,dreaddit_cv_raw_splits\folds_raw\fold_01_val_raw.csv,"{1: np.int64(236), 0: np.int64(221)}","{1: np.int64(59), 0: np.int64(56)}"
+2,457,115,dreaddit_cv_raw_splits\folds_raw\fold_02_train_raw.csv,dreaddit_cv_raw_splits\folds_raw\fold_02_val_raw.csv,"{1: np.int64(236), 0: np.int64(221)}","{1: np.int64(59), 0: np.int64(56)}"
+3,458,114,dreaddit_cv_raw_splits\folds_raw\fold_03_train_raw.csv,dreaddit_cv_raw_splits\folds_raw\fold_03_val_raw.csv,"{1: np.int64(236), 0: np.int64(222)}","{1: np.int64(59), 0: np.int64(55)}"
+4,458,114,dreaddit_cv_raw_splits\folds_raw\fold_04_train_raw.csv,dreaddit_cv_raw_splits\folds_raw\fold_04_val_raw.csv,"{1: np.int64(236), 0: np.int64(222)}","{1: np.int64(59), 0: np.int64(55)}"
+5,458,114,dreaddit_cv_raw_splits\folds_raw\fold_05_train_raw.csv,dreaddit_cv_raw_splits\folds_raw\fold_05_val_raw.csv,"{1: np.int64(236), 0: np.int64(222)}","{1: np.int64(59), 0: np.int64(55)}"

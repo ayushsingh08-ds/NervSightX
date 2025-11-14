@@ -1,0 +1,6 @@
+fold,train_rows,val_rows,acc,precision,recall,f1,auc,pipeline_path,oof_csv
+01,457,115,0.6782608695652174,0.7037037037037037,0.6440677966101694,0.672566371681416,0.8056900726392251,Machine learning\models\logreg\fold_01_pipeline.joblib,Machine learning\models\logreg\fold_01_oof.csv
+02,457,115,0.7217391304347827,0.6956521739130435,0.8135593220338984,0.75,0.820823244552058,Machine learning\models\logreg\fold_02_pipeline.joblib,Machine learning\models\logreg\fold_02_oof.csv
+03,458,114,0.7017543859649122,0.711864406779661,0.711864406779661,0.711864406779661,0.7815100154083205,Machine learning\models\logreg\fold_03_pipeline.joblib,Machine learning\models\logreg\fold_03_oof.csv
+04,458,114,0.7982456140350878,0.7903225806451613,0.8305084745762712,0.8099173553719008,0.8665639445300463,Machine learning\models\logreg\fold_04_pipeline.joblib,Machine learning\models\logreg\fold_04_oof.csv
+05,458,114,0.6929824561403509,0.7068965517241379,0.6949152542372882,0.7008547008547008,0.7676425269645608,Machine learning\models\logreg\fold_05_pipeline.joblib,Machine learning\models\logreg\fold_05_oof.csv

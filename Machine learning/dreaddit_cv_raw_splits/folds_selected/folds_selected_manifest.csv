@@ -1,0 +1,6 @@
+fold,train_rows,val_rows,selected_features,train_csv,val_csv
+01,457,115,34,dreaddit_cv_raw_splits\folds_selected\fold_01\fold_01_train_selected.csv,dreaddit_cv_raw_splits\folds_selected\fold_01\fold_01_val_selected.csv
+02,457,115,34,dreaddit_cv_raw_splits\folds_selected\fold_02\fold_02_train_selected.csv,dreaddit_cv_raw_splits\folds_selected\fold_02\fold_02_val_selected.csv
+03,458,114,34,dreaddit_cv_raw_splits\folds_selected\fold_03\fold_03_train_selected.csv,dreaddit_cv_raw_splits\folds_selected\fold_03\fold_03_val_selected.csv
+04,458,114,34,dreaddit_cv_raw_splits\folds_selected\fold_04\fold_04_train_selected.csv,dreaddit_cv_raw_splits\folds_selected\fold_04\fold_04_val_selected.csv
+05,458,114,34,dreaddit_cv_raw_splits\folds_selected\fold_05\fold_05_train_selected.csv,dreaddit_cv_raw_splits\folds_selected\fold_05\fold_05_val_selected.csv

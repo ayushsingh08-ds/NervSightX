@@ -1,0 +1,10 @@
+,0
+X_train_svd_shape,"(572, 200)"
+X_train_lex_shape,"(572, 111)"
+X_train_fused_shape,"(572, 311)"
+X_test_svd_shape,"(143, 200)"
+X_test_lex_shape,"(143, 111)"
+X_test_fused_shape,"(143, 311)"
+svd_components,200
+lexical_features,111
+fused_features,311
