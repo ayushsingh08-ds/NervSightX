@@ -1,0 +1,6 @@
+fold,train_rows,val_rows,acc,precision,recall,f1,auc,pipeline_path,oof_csv
+01,457,115,0.7130434782608696,0.7166666666666667,0.7288135593220338,0.7226890756302521,0.8052360774818401,Machine learning\models\svm\fold_01_pipeline.joblib,Machine learning\models\svm\fold_01_oof.csv
+02,457,115,0.7217391304347827,0.6901408450704225,0.8305084745762712,0.7538461538461538,0.812953995157385,Machine learning\models\svm\fold_02_pipeline.joblib,Machine learning\models\svm\fold_02_oof.csv
+03,458,114,0.7105263157894737,0.7241379310344828,0.711864406779661,0.717948717948718,0.788597842835131,Machine learning\models\svm\fold_03_pipeline.joblib,Machine learning\models\svm\fold_03_oof.csv
+04,458,114,0.7456140350877193,0.7142857142857143,0.847457627118644,0.7751937984496124,0.8335901386748845,Machine learning\models\svm\fold_04_pipeline.joblib,Machine learning\models\svm\fold_04_oof.csv
+05,458,114,0.6666666666666666,0.6666666666666666,0.711864406779661,0.6885245901639344,0.7440677966101695,Machine learning\models\svm\fold_05_pipeline.joblib,Machine learning\models\svm\fold_05_oof.csv

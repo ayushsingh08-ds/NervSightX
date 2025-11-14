@@ -1,0 +1,9 @@
+{
+  "bootstrap": false,
+  "class_weight": "balanced",
+  "max_depth": 12,
+  "max_features": 0.2,
+  "min_samples_leaf": 4,
+  "min_samples_split": 9,
+  "n_estimators": 313
+}
